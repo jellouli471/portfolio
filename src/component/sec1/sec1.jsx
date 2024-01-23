@@ -26,7 +26,7 @@ const Sec1 = () => {
         </div>
       </div>
       <div className="imag">
-        <img src="public/imm/bacim.png" alt="" />
+        <img src="https://i.ibb.co/99znNt4/bacim.png" alt="" />
       </div>
 
     </div>
