@@ -14,7 +14,7 @@ const Sec2 = () => {
         <div className="work-cards">
         <div className="card-wor">
             <div className="image-work">
-              <img src="public/imm/react-store.png" alt="" />
+              <img src="https://i.ibb.co/gRxcj9X/react-store.png" alt="" />
             </div>
             <div className="title-links">
               <div className="titl">
@@ -35,7 +35,7 @@ const Sec2 = () => {
           </div>
           <div className="card-wor">
             <div className="image-work">
-              <img src="public/imm/site-anil.png" alt="" />
+              <img src="https://i.ibb.co/g4GGzYd/site-anil.png" alt="" />
             </div>
             <div className="title-links">
               <div className="titl">
