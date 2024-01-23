@@ -1,0 +1,83 @@
+.links-logo {
+  display: none;
+}
+
+header {
+  padding: 15px 30px;
+}
+.links a {
+  padding: 0px 10px;
+  font-weight: 500;
+}
+.links a:hover {
+  color: #ffffff;
+}
+.icon-soc i {
+  padding: 5px 5px;
+  border: 2px solid white;
+  border-radius: 100%;
+  margin: 0px 2px;
+}
+.forpc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu .fa-bars {
+  font-size: 25px;
+  cursor: pointer;
+}
+.header-forph{
+  display: none;
+}
+@media (max-width: 600px) {
+
+  .forpc{
+    display: none;
+  }
+  .men i{
+    font-size: 27px;
+  }
+  .men-links{
+    position: absolute;
+    right: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 38%;
+    background-color: #1E293B;
+    border-radius: 8px;
+  }
+.men-links{
+  display: none;
+}
+.menu-links:hover .men-links{
+  display: flex;
+}
+
+   .men-links a{
+    color: white;
+    padding: 5px 0px;
+    
+   }
+  .header-forph{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .icons-mob i{
+    padding: 26px 6px;
+    font-size: 23px;
+  }
+  .min-tit p{
+    font-size: 12px;
+  }
+  .butuns button{
+    padding: 21px 36px;
+    font-size: 10px;
+    font-weight: 399;
+
+  }
+}
