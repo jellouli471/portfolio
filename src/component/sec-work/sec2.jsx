@@ -49,7 +49,7 @@ const Sec2 = () => {
                   <a href="https://github.com/jellouli471/anime-api"><i className="fa-brands fa-github"></i></a>
                 </div>
                 <div className="link-prr">
-                  <a href="http://faithful-morning.surge.sh/"><i className="fa-solid fa-link"></i></a>
+                  <a href="https://illustrious-buttercream-13588e.netlify.app/"><i className="fa-solid fa-link"></i></a>
                 </div>
               </div>
             </div>
